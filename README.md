@@ -5,11 +5,11 @@ This repo main aim recreate the setup for collecting ENF data
 # Setup
 1) Assemble your hardware as shown in image 
        Right end to plug point
+       Other end to laptop or any arduino data collecting device
        Circuit is to convert 9 Volt supply to 5 Volt supply
-       
 ![Hardware Image](image.png)
 
-2) Upload "arduino/arduino.ino" into arduino
+2) Upload "arduino/arduino.ino" into arduino (should be uno(or higher) or should be able to send serially at 1khz or higher )
 
 3) Set "time_req" variable in "python_program.py"
 
