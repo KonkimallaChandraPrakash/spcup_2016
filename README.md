@@ -4,12 +4,9 @@ Make sure that you are in correct branch before moving forward
 This repo main aim recreate the setup for collecting ENF data
 # Setup
 1) Assemble your hardware as shown in image 
-       Right end to plug point
-       Other end to laptop or any arduino data collecting device
-       Circuit is to convert 9 Volt supply to 5 Volt supply
 ![Hardware Image](image.png)
 
-2) Upload "arduino/arduino.ino" into arduino (should be uno(or higher) or should be able to send serially at 1khz or higher )
+2) Upload "arduino/arduino.ino" into arduino
 
 3) Set "time_req" variable in "python_program.py"
 
@@ -17,6 +14,12 @@ This repo main aim recreate the setup for collecting ENF data
 
 5) Then run "textFile_to_audioFile.m" to get the corresponding ".wav" files
 
+# Points to remember
+	Right end to plug point
+	Other end to laptop or any arduino data collecting device
+	Circuit is to convert 9 Volt supply to 5 Volt supply
+	Arduino Uno(or higher) or should be able to send serially at 1khz or higher
+	
 # Example ".wav" files
 You can find example ".wav" files in "Our Recordings" folder
   ## Recording times:-
