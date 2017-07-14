@@ -6,8 +6,8 @@ Our team was placed below 10 world wide and "Special Recognition of Young Team (
 "
 To find out more about our work you can look at [icassp link](https://sigport.org/sites/default/files/docs/IITH_SPCUP_Report_1.pdf)
 
-For software part of our code you can check [spcup_software](https://github.com/KonkimallaChandraPrakash/spcup_2016/tree/spcup_software) branch 
+For software part of our work you can check [spcup_software](https://github.com/KonkimallaChandraPrakash/spcup_2016/tree/spcup_software) branch 
 
-For software part of our code you can check [spcup_hardware](https://github.com/KonkimallaChandraPrakash/spcup_2016/tree/spcup_hardware) branch 
+For hardware part of our work you can check [spcup_hardware](https://github.com/KonkimallaChandraPrakash/spcup_2016/tree/spcup_hardware) branch 
 
 You can cite our work if you find it useful for your research.
