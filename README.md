@@ -1,18 +1,18 @@
 # SPCUP 2016 Hardware
 Make sure that you are in correct branch before moving forward
 
-This repo main aim recreate the setup for collecting ENF data
+This repo's main aim is to recreate the setup for collecting ENF data
 # Setup
 1) Assemble your hardware as shown in image 
 ![Hardware Image](image.png)
 
-2) Upload "arduino/arduino.ino" into arduino
+2) Upload "arduino/arduino.ino" into your arduino
 
 3) Set "time_req" variable in "python_program.py"
 
-4) After setting up run the file "python_program.py"
+4) After set up run the file "python_program.py"
 
-5) Then run "textFile_to_audioFile.m" to get the corresponding ".wav" files
+5) Post completion of "python_program.py" run "textFile_to_audioFile.m" to get the corresponding ".wav" files
 
 # Points to remember
 	Right end to plug point
